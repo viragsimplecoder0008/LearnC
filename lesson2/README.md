@@ -1,4 +1,5 @@
 #Variables in C
+--------------
 
 **Variables in C are like this:**
 ```txt
