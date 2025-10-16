@@ -20,7 +20,7 @@ int main() { // Declare/define the main function
     return 0; // Makes sure the program gives the output as success.
 } // End the main function.
 ```
-PLS READ: **I will not provide links after this because finding links is sooooo hard.**\
+PLS READ: I will not provide links after this because finding links is sooooo hard.\
 **I've added comments to help you understand.**\
 **Now, you may ask: "How do we execute this code?"**\
 **Well...**\
