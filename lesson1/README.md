@@ -1,4 +1,4 @@
-#Introduction to C
+**Introduction to C**
 
 What is C?
 ----------
