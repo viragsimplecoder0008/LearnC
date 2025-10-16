@@ -21,7 +21,7 @@ int main() { // Declare/define the main function
 } // End the main function.
 ```
 PLS READ: I will not provide links after this because finding links is sooooo hard.\
-**I've added comments to help you understand.**\
+**I've added comments to help you understand the above code.**\
 **Now, you may ask: "How do we execute this code?"**\
 **Well...**\
 **Install a compiler (like gcc) on your machine, and make sure its installed by typing into the cmd/terminal on your machine:**
@@ -40,5 +40,5 @@ Or, for windows:
 ```bash
 .\hello-world.exe
 ```
-**Now, it just said "Hello World!", right?**
-**MOVE ON!**
+**Now, it just said "Hello World!", right?**\
+Go on to the next lesson!
