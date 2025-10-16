@@ -8,7 +8,7 @@ Basics of C
 -----------
 `//` is for [comments](https://geeksforgeeks.org/c/c-comments/) (e.g. // hello)\
 `#include` **is to include a [.h file](https://geeksforgeeks.org/c/header-files-in-c-cpp-and-its-uses/)/library .h's**\
-`int main() {...}` **is to define the main [function](https://geeksforgeeks.org/c/c-functions/), which will be auto-executed.**\
+`int main() {...}` **is to define the main [function](https://geeksforgeeks.org/c/c-functions/), which will be auto-executed.**
 
 Writing a Hello World program in C
 ----------------------------------
