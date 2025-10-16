@@ -36,5 +36,9 @@ gcc hello-world.c -o hello-world
 ```bash
 ./hello-world
 ```
+Or, for windows:
+```bash
+.\hello-world.exe
+```
 **Now, it just said "Hello World!", right?**
 **MOVE ON!**
