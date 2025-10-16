@@ -1,22 +1,3 @@
-If, else if, and else statments in C.
--------------------------------------
-**Let me explain if, else if, and else statments to you.**\
-
-***Deep Inhalation***
-
-
-**If a thing is not true (false), then the first "if" statment will not be executed.**
-
-
-**Else if is the same thing as if, but only if all the if's are false.**
-
-
-**Else is only executed if the before statments (else if, if) are FALSE.**
-
-
-***Exhales...***\
-**Example :**
-```C
 #include <stdio.h>
 
 int main() {
@@ -34,5 +15,3 @@ int main() {
     }
     return 0;
 }
-```
-**Understood?**
